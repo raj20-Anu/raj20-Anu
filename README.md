@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajeshwari</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif">
-<h3 align="left">AI & ML Engineering student passionate about building real-world AI solutions. I enjoy learning by building, experimenting, and turning ideas into working prototypes.</h3>
+*AI & ML Engineering student passionate about building real-world AI solutions. I enjoy learning by building, experimenting, and turning ideas into working prototypes*
 
 🌱 *I’m currently learning Deep Learning ,Python Flask, Generative AI ,UI/UX ,Java*
 
