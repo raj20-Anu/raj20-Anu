@@ -1,5 +1,5 @@
 
-<h1 align="center"><b><i>Hi 👋, I'm Rajeshwari</i></b></h1>
+<h1 align="center" style="color:#ff8ba7;"><b><i>Hi 👋, I'm Rajeshwari</i></b></h1>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif">
 <h3 align= "left"><i>AI & ML Engineering student passionate about building real-world AI solutions. I enjoy learning by building, experimenting, and turning ideas into working prototypes</i></h3>
 
